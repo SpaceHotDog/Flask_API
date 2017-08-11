@@ -23,16 +23,19 @@ Refactor code – Remove duplication, prune large objects and make the code more
 
 Repeat.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 Tutorials and etc: 
 https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way
 http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 https://techarena51.com/blog/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-slalchemy/
 
-Network based software architectures: 
+Network based software architectures (REST Architecture): 
 http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 
-------------------------------------------------------------------------------------------------------------------------------------------
+Alembic Docs:
+https://pypi.python.org/pypi/alembic
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 
