@@ -1,1 +1,17 @@
 # Flask API
+
+Write a test. – The test will help flesh out some functionality in our app.
+
+Then, run the test – The test should fail, since there's no code(yet) to make it pass.
+
+Write the code – To make the test pass.
+
+Run the test – If it passes, we are confident that the code we've written meets the test requirements.
+
+Refactor code – Remove duplication, prune large objects and make the code more readable. Re-run the tests every time we refactor our code.
+
+Repeat
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+More info at: https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way
