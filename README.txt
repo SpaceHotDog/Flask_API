@@ -1,4 +1,15 @@
-# Flask API
+# Flask RESTful API
+
+----------------------------------------------------------------------------------------------
+                                          Prerequisites
+----------------------------------------------------------------------------------------------
+
+Python3 - A programming language that lets us work more quickly (The universe loves speed!).
+
+Flask - A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+
+Virtualenv - A tool to create isolated virtual environments
+----------------------------------------------------------------------------------------------
 
 Write a test. – The test will help flesh out some functionality in our app.
 
@@ -15,3 +26,7 @@ Repeat
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 More info at: https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
