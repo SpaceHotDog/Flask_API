@@ -21,11 +21,17 @@ Run the test – If it passes, we are confident that the code we've written meet
 
 Refactor code – Remove duplication, prune large objects and make the code more readable. Re-run the tests every time we refactor our code.
 
-Repeat
+Repeat.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-More info at: https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way
+Tutorials and etc: 
+https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way
+http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+https://techarena51.com/blog/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-slalchemy/
+
+Network based software architectures: 
+http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
