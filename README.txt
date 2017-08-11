@@ -36,6 +36,14 @@ http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 Alembic Docs:
 https://pypi.python.org/pypi/alembic
 
+-----------
+Test Suite:
+-----------
+
+Postman:
+https://www.getpostman.com/postman
+
+Curl:
+https://curl.haxx.se/
+
 -----------------------------------------------------------------------------------------------------------------------------------------
-
-
