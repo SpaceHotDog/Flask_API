@@ -26,7 +26,8 @@ Repeat.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Tutorials and etc: 
-https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way
+https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way  #(Part 1)
+https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way-part-2 #(Part 2)
 http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 https://techarena51.com/blog/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-slalchemy/
 
