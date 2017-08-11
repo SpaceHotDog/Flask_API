@@ -1,8 +1,6 @@
 # app/models.py
 
-# Import the db connection from the app/__init__.py
-
-from app import db
+from app import db # Import the db connection from the app/__init__.py
 
 class Bucketlist(db.Model):
     """This class represents the bucketlist table."""
@@ -24,7 +22,7 @@ class Bucketlist(db.Model):
         db.session.add(self)
         db.session.commit()
 
-    @staticmethod
+    @staticmethod # Decorators Reminder: https://www.python.org/dev/peps/pep-0318/
     def get_all():
         return Bucketlist.query.all()
 
