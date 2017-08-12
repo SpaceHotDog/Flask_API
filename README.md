@@ -9,6 +9,7 @@ Python3 - A programming language that lets us work more quickly (The universe lo
 Flask - A microframework for Python based on Werkzeug, Jinja 2 and good intentions
 
 Virtualenv - A tool to create isolated virtual environments
+
 ----------------------------------------------------------------------------------------------
 
 Write a test. – The test will help flesh out some functionality in our app.
@@ -23,21 +24,24 @@ Refactor code – Remove duplication, prune large objects and make the code more
 
 Repeat.
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 Tutorials and etc: 
+------------------
 https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way  #(Part 1)
 https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way-part-2 #(Part 2)
 http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 https://techarena51.com/blog/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-slalchemy/
 
-Network based software architectures (REST Architecture): 
+Network based software architectures (REST Architecture):
+---------------------------------------------------------
 http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 
 Alembic Docs:
+-------------
 https://pypi.python.org/pypi/alembic
 
------------
+
 Test Suite:
 -----------
 
@@ -47,4 +51,4 @@ https://www.getpostman.com/postman
 Curl:
 https://curl.haxx.se/
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
